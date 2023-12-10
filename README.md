@@ -4,9 +4,7 @@ This project focuses on developing a robust and efficient algorithm for the accu
 
 Features -
 Hypodensity Segmentation: The algorithm excels in accurately identifying and segmenting hypodense regions in brain NCCT images.
-
 Slice Thickness and Orientation Invariance: The model's performance remains consistent regardless of variations in slice thickness and orientation.
-
 Automation for Stroke Identification: The algorithm plays a crucial role in automating the identification of early ischemic changes, contributing to the efficient and timely diagnosis of acute stroke patients.
 
 
