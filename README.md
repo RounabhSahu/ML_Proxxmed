@@ -8,9 +8,6 @@ This project aims to develop a robust and efficient algorithm or AI model for ac
 - **Automation for Stroke Identification:** The algorithm aims to automate the identification of early ischemic changes, contributing to the efficient diagnosis of acute stroke patients.
 
 ## Getting Started
-
-#!/usr/bin/env python
-# coding: utf-8
 ### Prerequisites
 
 - Python 3
